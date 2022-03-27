@@ -28,5 +28,4 @@ GDJGURL = "https://api.landchina.com/tGdxm/result/list"
 # 工地结果详情页链接
 GDJGDETAILURL = "https://api.landchina.com/tGdxm/result/detail"
 # 代理链接
-# PROXYURL = "http://api.xiequ.cn/VAD/GetIp.aspx?act=getturn51&uid=53929&vkey=796074414FEA7E1092654657355241F9&num=1&time=6&plat=0&re=0&type=7&so=3&group=51&ow=1&spl=1&addr=&db=1"
-PROXYURL = "http://api.xiequ.cn/VAD/GetIp.aspx?act=getturn82&uid=53929&vkey=796074414FEA7E1092654657355241F9&num=100&time=6&plat=0&re=1&type=7&so=1&group=51&ow=1&spl=1&addr=&db=1"
+PROXYURL = ""
